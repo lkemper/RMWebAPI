@@ -18,18 +18,40 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configura
 		PublishScripts\Configurations\RMWebAPI-WAWS-dev.json = PublishScripts\Configurations\RMWebAPI-WAWS-dev.json
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Azure", "Azure", "{CD9D9843-5BB7-4EDB-A2AF-DF9E98E472D2}"
+	ProjectSection(SolutionItems) = preProject
+		Azure\DeploySiteToHost.ps1 = Azure\DeploySiteToHost.ps1
+		Azure\HISC-5-4-2015-credentials.publishsettings = Azure\HISC-5-4-2015-credentials.publishsettings
+		Azure\New-AzureEnvironmentXml.ps1 = Azure\New-AzureEnvironmentXml.ps1
+		Azure\New-AzureSql.ps1 = Azure\New-AzureSql.ps1
+		Azure\New-AzureStorage.ps1 = Azure\New-AzureStorage.ps1
+		Azure\New-AzureWebsiteEnv.ps1 = Azure\New-AzureWebsiteEnv.ps1
+		Azure\New-PublishXml.ps1 = Azure\New-PublishXml.ps1
+		Azure\Publish-AzureWebsite.ps1 = Azure\Publish-AzureWebsite.ps1
+		Azure\pubxml.template = Azure\pubxml.template
+		Azure\readme.md = Azure\readme.md
+		Azure\website-environment-storage-sql.template = Azure\website-environment-storage-sql.template
+		Azure\website-environment.template = Azure\website-environment.template
+		Azure\website-environment.xml = Azure\website-environment.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Int|Any CPU = Int|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6A30BC59-3C5A-4261-9EF6-C9DE7A4215DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6A30BC59-3C5A-4261-9EF6-C9DE7A4215DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A30BC59-3C5A-4261-9EF6-C9DE7A4215DF}.Int|Any CPU.ActiveCfg = Int|Any CPU
+		{6A30BC59-3C5A-4261-9EF6-C9DE7A4215DF}.Int|Any CPU.Build.0 = Int|Any CPU
 		{6A30BC59-3C5A-4261-9EF6-C9DE7A4215DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A30BC59-3C5A-4261-9EF6-C9DE7A4215DF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F347722D-CF6B-4E4F-BF61-08870C8C1716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F347722D-CF6B-4E4F-BF61-08870C8C1716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F347722D-CF6B-4E4F-BF61-08870C8C1716}.Int|Any CPU.ActiveCfg = Int|Any CPU
+		{F347722D-CF6B-4E4F-BF61-08870C8C1716}.Int|Any CPU.Build.0 = Int|Any CPU
 		{F347722D-CF6B-4E4F-BF61-08870C8C1716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F347722D-CF6B-4E4F-BF61-08870C8C1716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
