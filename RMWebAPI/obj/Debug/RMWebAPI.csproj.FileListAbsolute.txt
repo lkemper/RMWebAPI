@@ -73,8 +73,6 @@ E:\WorkspacesLisaKemper\LisaKemper\Azure\RMWebAPI\RMWebAPI\bin\System.Web.Http.O
 E:\WorkspacesLisaKemper\LisaKemper\Azure\RMWebAPI\RMWebAPI\obj\Debug\RMWebAPI.csprojResolveAssemblyReference.cache
 E:\WorkspacesLisaKemper\LisaKemper\Azure\RMWebAPI\RMWebAPI\obj\Debug\RMWebAPI.dll
 E:\WorkspacesLisaKemper\LisaKemper\Azure\RMWebAPI\RMWebAPI\obj\Debug\RMWebAPI.pdb
-E:\GitHub\RMWebAPI\RMWebAPI\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-E:\GitHub\RMWebAPI\RMWebAPI\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
 E:\GitHub\RMWebAPI\RMWebAPI\bin\RMWebAPI.dll.config
 E:\GitHub\RMWebAPI\RMWebAPI\bin\RMWebAPI.dll
 E:\GitHub\RMWebAPI\RMWebAPI\bin\RMWebAPI.pdb

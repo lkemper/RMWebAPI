@@ -50,8 +50,6 @@ E:\WorkspacesLisaKemper\LisaKemper\Azure\RMWebAPI\RMWebAPI.Tests\bin\Debug\Syste
 E:\WorkspacesLisaKemper\LisaKemper\Azure\RMWebAPI\RMWebAPI.Tests\obj\Debug\RMWebAPI.Tests.csprojResolveAssemblyReference.cache
 E:\WorkspacesLisaKemper\LisaKemper\Azure\RMWebAPI\RMWebAPI.Tests\obj\Debug\RMWebAPI.Tests.dll
 E:\WorkspacesLisaKemper\LisaKemper\Azure\RMWebAPI\RMWebAPI.Tests\obj\Debug\RMWebAPI.Tests.pdb
-E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\RMWebAPI.Tests.dll.config
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\RMWebAPI.Tests.dll
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\RMWebAPI.Tests.pdb
@@ -105,3 +103,5 @@ E:\GitHub\RMWebAPI\RMWebAPI.Tests\obj\Debug\RMWebAPI.Tests.pdb
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\Coverage.bat
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\nunit.framework.dll
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\nunit.framework.xml
+E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
+E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
