@@ -102,3 +102,6 @@ E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\System.Web.Http.Owin.xml
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\obj\Debug\RMWebAPI.Tests.csprojResolveAssemblyReference.cache
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\obj\Debug\RMWebAPI.Tests.dll
 E:\GitHub\RMWebAPI\RMWebAPI.Tests\obj\Debug\RMWebAPI.Tests.pdb
+E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\Coverage.bat
+E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\nunit.framework.dll
+E:\GitHub\RMWebAPI\RMWebAPI.Tests\bin\Debug\nunit.framework.xml

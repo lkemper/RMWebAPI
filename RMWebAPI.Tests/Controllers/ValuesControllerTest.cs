@@ -4,16 +4,17 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Web.Http;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+//using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using RMWebAPI;
 using RMWebAPI.Controllers;
 
 namespace RMWebAPI.Tests.Controllers
 {
-    [TestClass]
+    [TestFixture]
     public class ValuesControllerTest
     {
-        [TestMethod]
+        [Test]
         public void Get()
         {
             // Arrange
@@ -29,7 +30,7 @@ namespace RMWebAPI.Tests.Controllers
             Assert.AreEqual("value2", result.ElementAt(1));
         }
 
-        [TestMethod]
+        [Test]
         public void GetById()
         {
             // Arrange
@@ -42,7 +43,7 @@ namespace RMWebAPI.Tests.Controllers
             Assert.AreEqual("value", result);
         }
 
-        [TestMethod]
+        [Test]
         public void Post()
         {
             // Arrange
@@ -54,7 +55,7 @@ namespace RMWebAPI.Tests.Controllers
             // Assert
         }
 
-        [TestMethod]
+        [Test]
         public void Put()
         {
             // Arrange
@@ -66,7 +67,7 @@ namespace RMWebAPI.Tests.Controllers
             // Assert
         }
 
-        [TestMethod]
+        [Test]
         public void Delete()
         {
             // Arrange
