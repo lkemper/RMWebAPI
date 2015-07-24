@@ -1,1 +1,1 @@
-.\packages\OpenCover.4.6.166\tools\OpenCover.Console.exe -target:runtests.bat -register:user -filter:"+[RMWEBAPI*]* -[RMWEBAPI*Tests*]*" -mergebyhash
+.\packages\OpenCover.4.6.166\tools\OpenCover.Console.exe -target:runtests.bat -register:user -filter:"+[RMWebAPI*]* -[RMWebAPI*Tests*]*" -mergebyhash
